@@ -5,8 +5,6 @@ description: Lyubo Panchev, a graduate student, gives a lecture in the 2014 offe
 file: /courses/18-915-graduate-topology-seminar-kan-seminar-fall-2014/5e8f166f18ea3011e164a8d13ee87378_18.915-Feedback_Photo.jpg
 file_size: 57129
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Lyubo Panchev, a graduate student, gives a lecture in the 2014 offering
     of the Kan Seminar.

@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, and the schedule of lecture topics and presenters.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -23,7 +21,7 @@ Prerequisites
 Description
 -----------
 
-The Kan seminar—named after the late MIT professor [Daniel Kan](http://math.mit.edu/about/history/obituaries/kan.php)—focuses on classic papers in algebraic topology. Each student gives one or two talks on each of three papers, chosen in consultation with the instructor, reads all the papers presented by other students, and writes reactions to the papers. This course is useful not only to students pursuing algebraic topology as a field of study, but also to those interested in symplectic geometry, representation theory, and combinatorics.
+The Kan seminar—named after the late MIT professor {{% resource_link "c1fe6f35-9e29-41cf-ae22-5094dc2415ce" "Daniel Kan" %}}—focuses on classic papers in algebraic topology. Each student gives one or two talks on each of three papers, chosen in consultation with the instructor, reads all the papers presented by other students, and writes reactions to the papers. This course is useful not only to students pursuing algebraic topology as a field of study, but also to those interested in symplectic geometry, representation theory, and combinatorics.
 
 Calendar
 --------

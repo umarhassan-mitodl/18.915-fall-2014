@@ -2,8 +2,6 @@
 content_type: page
 description: "In this section, the instructor shares elements of Daniel Kan\u2019\
   s life and his approach to teaching."
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Life & Teaching of Daniel Kan

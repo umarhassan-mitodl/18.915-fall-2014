@@ -2,8 +2,6 @@
 content_type: page
 description: In this section, the instructor shares the kind of feedback he provides
   students during their post-talk debriefing sessions.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Feedback after Talks

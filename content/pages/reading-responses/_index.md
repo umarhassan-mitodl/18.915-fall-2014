@@ -2,8 +2,6 @@
 content_type: page
 description: In this section, the instructor describes the reading responses students
   complete for each paper they do not present.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Reading Responses

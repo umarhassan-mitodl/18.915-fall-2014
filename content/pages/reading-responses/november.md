@@ -2,8 +2,6 @@
 content_type: page
 description: In this section, the instructor and student share their reading response
   correspondence for November.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Reading Responses
@@ -49,7 +47,7 @@ Haynes
 
 ### 7 Nov
 
-_Response to:_ Nishida, G. "[The Nilpotency of Elements of the Stable Homotopy Groups of Spheres](http://dx.doi.org/10.2969/jmsj/02540707)." _Journal of the Mathematical Society of Japan_ 25, no. 4 (1973): 707–32.
+_Response to:_ Nishida, G. "{{% resource_link "f3ada452-825b-4738-bae4-97940a09b60e" "The Nilpotency of Elements of the Stable Homotopy Groups of Spheres" %}}." _Journal of the Mathematical Society of Japan_ 25, no. 4 (1973): 707–32.
 
 Dear Professor Miller,
 
@@ -113,7 +111,7 @@ Haynes
 
 ### 19 Nov
 
-_Response to_: Bousfield, A. K. "[The Localization of Spaces with Respect to Homology](http://dx.doi.org/10.1016/0040-9383%2875%2990023-3)." _Topology_ 14, no. 2 (1975): 133–50.
+_Response to_: Bousfield, A. K. "{{% resource_link "ece5fba4-b571-4cad-8f11-59f1ba272b4e" "The Localization of Spaces with Respect to Homology" %}}." _Topology_ 14, no. 2 (1975): 133–50.
 
 Hi Professor Miller,
 
@@ -126,7 +124,7 @@ Here is my response to the Bousfield paper:
     
 3.  Do people care about homology theories that aren't ordinary singular homology with coefficients? (I would assume so... such as K-theory?) And homology theories that aren't connective, which he says means that the acyclic spaces are the same as ordinary homology with coefficients? I couldn't find much about this by some short googling...
 4.  Why are the "algebraic" conditions given in sections 5-9 useful? Is it just for intuition or completeness, not that they are actually computable?
-5.  Also googling around about this subject I found: [http://mathoverflow.net/questions/173546/why-localize-spaces-with-respect-to-homology](http://mathoverflow.net/questions/173546/why-localize-spaces-with-respect-to-homology), which seems to say that localization can not only simplify a problem but make more phenomena appear... I also like the observation that the only reason Adams lacked a proof of localization with respect to any homology-theory was set-theoretic concerns.
+5.  Also googling around about this subject I found: {{% resource_link "0facad24-1001-4df1-85c8-7de227baf1bb" "http://mathoverflow.net/questions/173546/why-localize-spaces-with-respect-to-homology" %}}, which seems to say that localization can not only simplify a problem but make more phenomena appear... I also like the observation that the only reason Adams lacked a proof of localization with respect to any homology-theory was set-theoretic concerns.
 
 Thanks!  
 Isabel
@@ -189,7 +187,7 @@ Haynes
 
 ### 24 Nov
 
-_Response to_: Segal, G. "[Categories and Cohomology Theories](http://dx.doi.org/10.1016/0040-9383%2874%2990022-6)." _Topology_ 13, no. 3 (1974): 293–312.
+_Response to_: Segal, G. "{{% resource_link "7e2a6a4d-0554-4f41-83e6-a4943bd976dd" "Categories and Cohomology Theories" %}}." _Topology_ 13, no. 3 (1974): 293–312.
 
 Hi Professor Miller:
 

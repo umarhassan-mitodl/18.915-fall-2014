@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-915-graduate-topology-seminar-kan-seminar-fall-2014/cbb55e23b6990575ca0da647414815fb_18-915-Intro_Photo.jpg
 file_size: 77607
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

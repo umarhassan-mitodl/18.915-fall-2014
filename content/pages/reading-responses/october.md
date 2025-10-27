@@ -13,7 +13,7 @@ uid: d0479656-3929-d8a6-3926-9c8f2cfc2dc2
 
 ### 1 Oct
 
-_Response to_: Milnor, J. W. "[On Manifolds Homeomorphic to the 7–sphere](http://www.jstor.org/stable/1969983)." _Annals of Mathematics_ 64, no. 2 (1956): 399–405.
+_Response to_: Milnor, J. W. "{{% resource_link "6939cddc-88be-4d7f-9ce2-43c5d43ee1e5" "On Manifolds Homeomorphic to the 7–sphere" %}}." _Annals of Mathematics_ 64, no. 2 (1956): 399–405.
 
 Dear Professor Miller,
 
@@ -79,7 +79,7 @@ Haynes
 
 ### 8 Oct
 
-_Response to:_ Adams, J. F., and M. F. Atiyah. ["K–theory and the Hopf Invariant](http://qjmath.oxfordjournals.org/content/17/1/31.full.pdf+html)." _The Quarterly Journal of Mathematics_ 17, no. 1 (1966): 31–38.
+_Response to:_ Adams, J. F., and M. F. Atiyah. {{% resource_link "0a993e2a-837a-4853-a749-dce852b32c85" "\"K–theory and the Hopf Invariant" %}}." _The Quarterly Journal of Mathematics_ 17, no. 1 (1966): 31–38.
 
 Dear Professor Miller,
 
@@ -110,7 +110,7 @@ Haynes
 
 ### 20 Oct
 
-_Response to:_ Quillen, D. G. "[The Spectrum of an Equivariant Cohomology Ring: I](http://www.jstor.org/stable/1970770)." _Annals of Mathematics_ 94, no. 3 (1971): 549–72.
+_Response to:_ Quillen, D. G. "{{% resource_link "6d8c1911-2690-456e-b391-38bdb92f3f14" "The Spectrum of an Equivariant Cohomology Ring: I" %}}." _Annals of Mathematics_ 94, no. 3 (1971): 549–72.
 
 Dear Professor Miller,
 
@@ -143,7 +143,7 @@ Haynes
 
 ### 24 Oct
 
-_Response to:_ Wall, C. T. C. "[Finiteness Conditions for CW–complexes](http://www.jstor.org/stable/1970382)." _Annals of Mathematics_ 81, no. 1 (1965): 56-69.
+_Response to:_ Wall, C. T. C. "{{% resource_link "ef13aaef-9de9-4d47-9379-6127f2d9c4b2" "Finiteness Conditions for CW–complexes" %}}." _Annals of Mathematics_ 81, no. 1 (1965): 56-69.
 
 Hi Prof. Miller,
 
@@ -174,7 +174,7 @@ Haynes
 
 ### 29 Oct
 
-_Response to:_ Adams, J. F. _Stable Homotopy and Generalised Homology (Part III) (Chicago Lectures in Mathematics)_. University of Chicago Press, 1995. ISBN: 9780226005249. \[Preview with [Google Books](http://books.google.com/books?id=6vG13YQcPnYC&pg=PAfrontcover)\] \[reprint of the 1974 original\]
+_Response to:_ Adams, J. F. _Stable Homotopy and Generalised Homology (Part III) (Chicago Lectures in Mathematics)_. University of Chicago Press, 1995. ISBN: 9780226005249. \[Preview with {{% resource_link "7bb9db8d-f646-4f45-9bdd-662a1e37a345" "Google Books" %}}\] \[reprint of the 1974 original\]
 
 Dear Professor Miller,
 

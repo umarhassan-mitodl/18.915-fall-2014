@@ -2,8 +2,6 @@
 content_type: page
 description: In this section, the instructor shares the rationale for including practice
   talks in the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Practice Talks

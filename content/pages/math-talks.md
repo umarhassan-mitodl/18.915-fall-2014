@@ -2,8 +2,6 @@
 content_type: page
 description: In this section, the instructor shares the seminal papers featured during
   math talks, and the order in which students presented them.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Math Talks
@@ -62,7 +60,7 @@ Instructor
 Student A
 {{< tdclose >}}
 {{< tdopen >}}
-Serre, J. -P. "[Cohomologie Modulo 2 des Complexes d'Eilenberg–Maclane](https://link.springer.com/article/10.1007/BF02564562)." _Commentarii Mathematici Helvetici_ 27, no. 1 (1953): 198–232.
+Serre, J. -P. "{{% resource_link "2e89677f-d629-44f1-9c26-d56a5da64887" "Cohomologie Modulo 2 des Complexes d'Eilenberg–Maclane" %}}." _Commentarii Mathematici Helvetici_ 27, no. 1 (1953): 198–232.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +72,7 @@ Serre, J. -P. "[Cohomologie Modulo 2 des Complexes d'Eilenberg–Maclane](https:
 Student B
 {{< tdclose >}}
 {{< tdopen >}}
-Milnor, J. W. "[The Geometric Realization of a Semi–simplicial Complex](http://www.jstor.org/stable/1969967)." _Annals of Mathematics_ 65, no. 2 (1957): 357–62.
+Milnor, J. W. "{{% resource_link "f20a4d8b-0fe6-4cbe-9d47-0cdb81b37100" "The Geometric Realization of a Semi–simplicial Complex" %}}." _Annals of Mathematics_ 65, no. 2 (1957): 357–62.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +84,7 @@ Milnor, J. W. "[The Geometric Realization of a Semi–simplicial Complex](http:/
 Student (Auditing)
 {{< tdclose >}}
 {{< tdopen >}}
-Milnor, J. W., and J. D. Stasheff. _Characteristic Classes_ _(Annals of Mathematics Studies)._ Vol. 76_._ Princeton University Press, 1974. ISBN: 9780691081229. \[Preview with [Google Books](http://books.google.com/books?id=5zQ9AFk1i4EC&pg=PAfrontcover)\]
+Milnor, J. W., and J. D. Stasheff. _Characteristic Classes_ _(Annals of Mathematics Studies)._ Vol. 76_._ Princeton University Press, 1974. ISBN: 9780691081229. \[Preview with {{% resource_link "c7692290-71fa-4de7-bbe3-62d492bc0686" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +96,7 @@ Milnor, J. W., and J. D. Stasheff. _Characteristic Classes_ _(Annals of Mathemat
 Student (Auditing) (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Thom, R. "[Quelques propriétés globales des variétés différentiables](https://link.springer.com/article/10.1007/BF02566923)." _Commentarii Mathematici Helvetici_ 28 (1954): 17–86.
+Thom, R. "{{% resource_link "e6003c2c-2f1b-4dad-ae97-51d4edc035cb" "Quelques propriétés globales des variétés différentiables" %}}." _Commentarii Mathematici Helvetici_ 28 (1954): 17–86.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +108,7 @@ Thom, R. "[Quelques propriétés globales des variétés différentiables](https
 Student C
 {{< tdclose >}}
 {{< tdopen >}}
-———. "[Quelques propri´et´es globales des vari´et´es diff´erentiables](https://www.maths.ed.ac.uk/~v1ranick/papers/thomcob.pdf)." _Commentarii Mathematici Helvetici_ 28 (1954): 17–86.
+———. "{{% resource_link "e99b9e91-41ec-4916-827e-db46cbb27593" "Quelques propri´et´es globales des vari´et´es diff´erentiables" %}}." _Commentarii Mathematici Helvetici_ 28 (1954): 17–86.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +129,7 @@ Practice Talk Session
 Student D
 {{< tdclose >}}
 {{< tdopen >}}
-Milnor, J. W., and J. D. Stasheff. "Signature Theorem." In _Characteristic Classes (Annals of Mathematics Studies)_. Vol. 76_._ Princeton University Press, 1974. ISBN: 9780691081229. \[Preview with [Google Books](http://books.google.com/books?id=5zQ9AFk1i4EC&pg=PA219=onepage)\]
+Milnor, J. W., and J. D. Stasheff. "Signature Theorem." In _Characteristic Classes (Annals of Mathematics Studies)_. Vol. 76_._ Princeton University Press, 1974. ISBN: 9780691081229. \[Preview with {{% resource_link "c04242e6-6a42-4902-9280-4930e4f797a8" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +150,7 @@ Practice Talk Session
 Student E
 {{< tdclose >}}
 {{< tdopen >}}
-Milnor, J. W. "[On Manifolds Homeomorphic to the 7–sphere](http://www.jstor.org/stable/1969983)." _Annals of Mathematics_ 64, no. 2 (1956): 399–405.
+Milnor, J. W. "{{% resource_link "6939cddc-88be-4d7f-9ce2-43c5d43ee1e5" "On Manifolds Homeomorphic to the 7–sphere" %}}." _Annals of Mathematics_ 64, no. 2 (1956): 399–405.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,7 +174,7 @@ Atiyah, M. F. _K–theory_ _(Advanced Book Classics)_. 2nd ed. Notes by D. W. An
 Student F
 {{< tdclose >}}
 {{< tdopen >}}
-Adams, J. F., and M. F. Atiyah. ["K–theory and the Hopf Invariant](http://qjmath.oxfordjournals.org/content/17/1/31.full.pdf+html)." _The Quarterly Journal of Mathematics_ 17, no. 1 (1966): 31–38.
+Adams, J. F., and M. F. Atiyah. {{% resource_link "0a993e2a-837a-4853-a749-dce852b32c85" "\"K–theory and the Hopf Invariant" %}}." _The Quarterly Journal of Mathematics_ 17, no. 1 (1966): 31–38.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -197,7 +195,7 @@ Practice Talk Session
 Student G
 {{< tdclose >}}
 {{< tdopen >}}
-Adams, J. F. "[Vector Fields on Spheres](http://www.jstor.org/stable/1970213)." _Annals of Mathematics_ 75, no. 3 (1962): 603–32.
+Adams, J. F. "{{% resource_link "68f75133-8fe2-4a86-a3a4-1e5813d4f3c3" "Vector Fields on Spheres" %}}." _Annals of Mathematics_ 75, no. 3 (1962): 603–32.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -218,7 +216,7 @@ Practice Talk Session
 Student A
 {{< tdclose >}}
 {{< tdopen >}}
-Quillen, D. G. "[The Spectrum of an Equivariant Cohomology Ring: I](http://www.jstor.org/stable/1970770)." _Annals of Mathematics_ 94, no. 3 (1971): 549–72.
+Quillen, D. G. "{{% resource_link "6d8c1911-2690-456e-b391-38bdb92f3f14" "The Spectrum of an Equivariant Cohomology Ring: I" %}}." _Annals of Mathematics_ 94, no. 3 (1971): 549–72.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -239,7 +237,7 @@ Practice Talk Session
 Student B
 {{< tdclose >}}
 {{< tdopen >}}
-Wall, C. T. C. "[Finiteness Conditions for CW–complexes](http://www.jstor.org/stable/1970382)." _Annals of Mathematics_ 81, no. 1 (1965): 56–69.
+Wall, C. T. C. "{{% resource_link "ef13aaef-9de9-4d47-9379-6127f2d9c4b2" "Finiteness Conditions for CW–complexes" %}}." _Annals of Mathematics_ 81, no. 1 (1965): 56–69.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -260,7 +258,7 @@ Practice Talk Session
 Student C
 {{< tdclose >}}
 {{< tdopen >}}
-Adams, J. F. _Stable Homotopy and Generalised Homology_ __(Part III)_ (__Chicago Lectures in Mathematics)._ University of Chicago Press, 1995. ISBN: 9780226005249. \[Preview with [Google Books](http://books.google.com/books?id=6vG13YQcPnYC&pg=PAfrontcover)\] \[reprint of the 1974 original\]
+Adams, J. F. _Stable Homotopy and Generalised Homology_ __(Part III)_ (__Chicago Lectures in Mathematics)._ University of Chicago Press, 1995. ISBN: 9780226005249. \[Preview with {{% resource_link "7bb9db8d-f646-4f45-9bdd-662a1e37a345" "Google Books" %}}\] \[reprint of the 1974 original\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -305,7 +303,7 @@ Quillen, D. G. "Algebraic K–theory I." In __Higher K-Theories (_Lecture Notes 
 Student F
 {{< tdclose >}}
 {{< tdopen >}}
-Nishida, G. "[The Nilpotency of Elements of the Stable Homotopy Groups of Spheres](http://dx.doi.org/10.2969/jmsj/02540707)." _Journal of the Mathematical Society of Japan_ 25, no. 4 (1973): 707–32.
+Nishida, G. "{{% resource_link "f3ada452-825b-4738-bae4-97940a09b60e" "The Nilpotency of Elements of the Stable Homotopy Groups of Spheres" %}}." _Journal of the Mathematical Society of Japan_ 25, no. 4 (1973): 707–32.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -317,7 +315,7 @@ Nishida, G. "[The Nilpotency of Elements of the Stable Homotopy Groups of Sphere
 Student G
 {{< tdclose >}}
 {{< tdopen >}}
-Atiyah, M. F., and F. Hirzebruch. "[Analytic Cycles on Complex Manifolds](http://dx.doi.org/10.1016/0040-9383(62)90094-0)." _Topology_ 1, no. 1 (1962): 25–45.
+Atiyah, M. F., and F. Hirzebruch. "{{% resource_link "a176f56a-68d6-4be5-8a3d-f63fa1758864" "Analytic Cycles on Complex Manifolds" %}}." _Topology_ 1, no. 1 (1962): 25–45.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -350,7 +348,7 @@ Practice Talk Session
 Student B
 {{< tdclose >}}
 {{< tdopen >}}
-Bousfield, A. K. "[The Localization of Spaces with Respect to Homology](http://dx.doi.org/10.1016/0040-9383(75)90023-3)." _Topology_ 14, no. 2 (1975): 133–50.
+Bousfield, A. K. "{{% resource_link "7826217c-c268-4223-a075-a2ab52477214" "The Localization of Spaces with Respect to Homology" %}}." _Topology_ 14, no. 2 (1975): 133–50.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -374,7 +372,7 @@ Griffiths, P. A., and J. W. Morgan. _Rational Homotopy Theory and Differential F
 Student D
 {{< tdclose >}}
 {{< tdopen >}}
-Segal, G. "[Categories and Cohomology Theories](http://dx.doi.org/10.1016/0040-9383(74)90022-6)." _Topology_ 13, no. 3 (1974): 293–312.
+Segal, G. "{{% resource_link "62304631-f8cf-40c2-a17a-016159e7e32e" "Categories and Cohomology Theories" %}}." _Topology_ 13, no. 3 (1974): 293–312.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -437,7 +435,7 @@ Practice Talk Session
 Student G
 {{< tdclose >}}
 {{< tdopen >}}
-Goresky, M., and R. MacPherson. "[Intersection Homology Theory](http://dx.doi.org/10.1016/0040-9383(80)90003-8)." _Topology_ 19, no. 2 (1980): 135–62.
+Goresky, M., and R. MacPherson. "{{% resource_link "624bab66-e93d-42ee-b7b6-4c2664119711" "Intersection Homology Theory" %}}." _Topology_ 19, no. 2 (1980): 135–62.
 {{< tdclose >}}
 
 {{< trclose >}}

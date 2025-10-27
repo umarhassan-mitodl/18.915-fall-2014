@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides a brief introduction to the course, including background
   information, learning objectives, and an introduction to the course site.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Introduction
@@ -21,12 +19,12 @@ Students listen as their colleague present a lecture on rational homotopy. (Phot
 
 The first Kan seminar was held in the fall of 1969, and it has run nearly every fall since then. The charter class included:
 
-*   [W. Stephen Wilson](http://www.math.jhu.edu/~wsw/) (Department of Mathematics and the School of Education, Johns Hopkins University)
-*   [Dan Burns](http://www.ccmb.med.umich.edu/node/60) (Department of Computational Medicine and Bioinformatics, University of Michigan Medical School)
-*   [Bruce Williams](https://math.nd.edu/news/bruce-williams/) (Department of Mathematics, University of Notre Dame)
-*   [Tadatoshi Akiba](http://www.worldmayor.com/finalists2004/hiroshima.html) (Mayor of Hiroshima from 1999 to 2010)
-*   [Hans Anton Salomonsen](http://pure.au.dk/portal/en/persons/hans-anton-salomonsen%28ce23516d-35e3-4cd7-91ce-9a025e6a406f%29.html) (Department of Mathematics, Aarhus University)
-*   [Ken Brown](http://www.math.cornell.edu/~kbrown) (Department of Mathematics, Cornell University)
+*   {{% resource_link "76d61761-d684-4e1a-aec0-4910eb06deb8" "W. Stephen Wilson" %}} (Department of Mathematics and the School of Education, Johns Hopkins University)
+*   {{% resource_link "1a2d15a4-190e-42ff-923b-4319bdfd5bdf" "Dan Burns" %}} (Department of Computational Medicine and Bioinformatics, University of Michigan Medical School)
+*   {{% resource_link "8b802076-620a-4141-a6f0-01028a1a594d" "Bruce Williams" %}} (Department of Mathematics, University of Notre Dame)
+*   {{% resource_link "3421daeb-bb6e-4c44-bc58-fd8182de309e" "Tadatoshi Akiba" %}} (Mayor of Hiroshima from 1999 to 2010)
+*   {{% resource_link "9a7f274f-655e-42d3-a7b8-f0d699b5371b" "Hans Anton Salomonsen" %}} (Department of Mathematics, Aarhus University)
+*   {{% resource_link "beb4e9f6-76fd-4537-8e6b-8f15cc6e1bb3" "Ken Brown" %}} (Department of Mathematics, Cornell University)
 
 Learning Objectives
 -------------------

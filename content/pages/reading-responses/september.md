@@ -48,7 +48,7 @@ Haynes
 
 ### 9 Sep
 
-_Response to:_ Serre, J. -P. "[Cohomologie Modulo 2 des Complexes d'Eilenberg-Maclane](http://dx.doi.org/10.1007/BF02564562)." _Commentari Mathematici Helvetici 27_, no. 1 (1953): 198–232.
+_Response to:_ Serre, J. -P. "{{% resource_link "f2ea7064-140e-4a50-b284-f61fed3173d9" "Cohomologie Modulo 2 des Complexes d'Eilenberg-Maclane" %}}." _Commentari Mathematici Helvetici 27_, no. 1 (1953): 198–232.
 
 Dear Prof. Miller,
 
@@ -76,7 +76,7 @@ Haynes
 
 ### 11 Sep
 
-_Response to:_ Milnor, J. W. "[The Geometric Realization of a Semi–simplicial Complex](http://www.jstor.org/stable/1969967)." _Annals of Mathematics_ 65, no. 2 (1957): 357–62.
+_Response to:_ Milnor, J. W. "{{% resource_link "f20a4d8b-0fe6-4cbe-9d47-0cdb81b37100" "The Geometric Realization of a Semi–simplicial Complex" %}}." _Annals of Mathematics_ 65, no. 2 (1957): 357–62.
 
 Dear Prof. Miller,
 
@@ -115,7 +115,7 @@ Haynes
 
 ### 15 Sep
 
-_Response to:_ Thom, R. "[Quelques propriétés globales des variétés différentiables](http://dx.doi.org/10.1007/BF02566923)." _Commentarii Mathematici Helvetici_ 28 (1954): 17–86.
+_Response to:_ Thom, R. "{{% resource_link "d8fd8d37-ff4b-4225-9ae9-b43f18d41250" "Quelques propriétés globales des variétés différentiables" %}}." _Commentarii Mathematici Helvetici_ 28 (1954): 17–86.
 
 Dear Professor Miller,
 
@@ -158,7 +158,7 @@ Haynes
 
 ### 17 Sep
 
-_Response to:_ Milnor, J. W., and J. D. Stasheff. Characteristic Classes (_Annals of Mathematical Studies_). Vol. 76. Princeton University Press, 1974. ISBN: 9780691081229. \[Preview with [Google Books](http://books.google.com/books?id=5zQ9AFk1i4EC&pg=PAfrontcover)\]
+_Response to:_ Milnor, J. W., and J. D. Stasheff. Characteristic Classes (_Annals of Mathematical Studies_). Vol. 76. Princeton University Press, 1974. ISBN: 9780691081229. \[Preview with {{% resource_link "c7692290-71fa-4de7-bbe3-62d492bc0686" "Google Books" %}}\]
 
 Dear Professor Miller,
 
@@ -195,7 +195,7 @@ Haynes
 
 ### 22 Sep
 
-_Response to:_ Milnor, J. W., and J. D. Stasheff. Characteristic Classes (_Annals of Mathematical Studies_). Vol. 76. Princeton University Press, 1974. ISBN: 9780691081229. \[Preview with [Google Books](http://books.google.com/books?id=5zQ9AFk1i4EC&pg=PAfrontcover)\]
+_Response to:_ Milnor, J. W., and J. D. Stasheff. Characteristic Classes (_Annals of Mathematical Studies_). Vol. 76. Princeton University Press, 1974. ISBN: 9780691081229. \[Preview with {{% resource_link "c7692290-71fa-4de7-bbe3-62d492bc0686" "Google Books" %}}\]
 
 Dear Prof. Miller,
 
@@ -224,7 +224,7 @@ Haynes
 
 ### 26 Sep
 
-_Response to:_ Milnor, J. W., and J. D. Stasheff. "Signature Theorem." In Characteristic Classes (Annals of Mathematical Studies). Vol. 76. Princeton University Press, 1974. ISBN: 9780691081229. \[Preview with [Google Books](http://books.google.com/books?id=5zQ9AFk1i4EC&pg=PA219=onepage)\]
+_Response to:_ Milnor, J. W., and J. D. Stasheff. "Signature Theorem." In Characteristic Classes (Annals of Mathematical Studies). Vol. 76. Princeton University Press, 1974. ISBN: 9780691081229. \[Preview with {{% resource_link "c04242e6-6a42-4902-9280-4930e4f797a8" "Google Books" %}}\]
 
 Dear Professor Miller,
 
